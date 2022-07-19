@@ -8,7 +8,7 @@ Here are some ideas to get you started-->
 - 🌱  Estudando Python, HTML e CSS3
 - 📫 Contate-me por:<br>
      *brunomasterchif@gmail.com<br>
-     *@BrunoSantosLira25
+     *@brunosantoslira25
      
 - 😄 Pronouns: Ele/Dele
 - 🎧🎮 Amo Games e música!!
