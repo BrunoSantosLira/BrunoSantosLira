@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started-->
 
-- 🌱  Estudando Python C++
+- 🌱  Estudando Python e C++
 - 📫 Contate-me por:<br>
      *brunomasterchif@gmail.com<br>
      *@brunosantoslira25
