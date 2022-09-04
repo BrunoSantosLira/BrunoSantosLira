@@ -11,7 +11,7 @@ Here are some ideas to get you started-->
      *@brunosantoslira25
      
 - 😄 Pronouns: Ele/Dele
-- 🎧🎮 Amo Games e música!!
+- 🎧🎮
 --><br>
 
 
