@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started-->
 
-- 🌱  Estudando Python e C++
+- 🌱  Estudando HTML,CSS e JavaScript
 - 📫 Contate-me por:<br>
      *brunomasterchif@gmail.com<br>
      *@brunosantoslira25
