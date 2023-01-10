@@ -40,6 +40,10 @@ Here are some ideas to get you started-->
 <div>
   <a href="https://www.instagram.com/brunosantoslira25/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunomasterchif@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br>
+    <p align="center"> 
+    <img align="center" src="https://profile-counter.glitch.me/BrunoSantosLira/count.svg" >
+    </p>
   
   ![Snake animation](https://github.com/BrunoSantosLira/BrunoSantosLira/blob/output/github-contribution-grid-snake.svg)
   
