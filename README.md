@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started-->
 
-- 🌱  Estudando HTML,CSS e JavaScript
+- 🌱  Estudando atualmente: JavaScript e PHP
 - 📫 Contate-me por:<br>
      *brunomasterchif@gmail.com<br>
      *@brunosantoslira25
@@ -23,6 +23,10 @@ Here are some ideas to get you started-->
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />      
 <img align="center" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+          
+          
                              
 </div>
 
