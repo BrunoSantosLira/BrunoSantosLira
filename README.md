@@ -9,16 +9,14 @@ Here are some ideas to get you started-->
 - 📫 Contate-me por:<br>
      *brunomasterchif@gmail.com<br>
      *@brunosantoslira25
-     
-- 😄 Pronouns: Ele/Dele
-- 🎧🎮
+
 --><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brunosantoslira&show_icons=true&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brunosantoslira&show_icons=true&theme=tokyonight" />
 </a>
 <a  href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunosantoslira&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunosantoslira&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 <br>
@@ -50,10 +48,10 @@ Here are some ideas to get you started-->
     <p align="center">
     <h2>Projetos em destaque</h2>
         <a href="https://github.com/BrunoSantosLira/App_help_desk">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunosantoslira&repo=App_help_desk&theme=dark"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunosantoslira&repo=App_help_desk&theme=tokyonight"/>
         </a>
          <a href="https://github.com/BrunoSantosLira/App_help_desk">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunosantoslira&repo=Twitter_clone_MVC&theme=dark"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunosantoslira&repo=Twitter_clone_MVC&theme=tokyonight"/>
         </a>
     </p>
 </div>
