@@ -40,7 +40,6 @@ Here are some ideas to get you started-->
 </div>
 
 <hr>
-
 <div>
   <a href="https://www.instagram.com/brunosantoslira25/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunomasterchif@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -49,7 +48,12 @@ Here are some ideas to get you started-->
     <img align="center" src="https://profile-counter.glitch.me/BrunoSantosLira/count.svg" >
     </p>
     <p align="center">
-    <h2>Projeto em destaque</h2>
-        <img src=".github/workflows/help_desk.png" />
+    <h2>Projetos em destaque</h2>
+        <a href="https://github.com/BrunoSantosLira/App_help_desk">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunosantoslira&repo=App_help_desk&theme=dark"/>
+        </a>
+         <a href="https://github.com/BrunoSantosLira/App_help_desk">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunosantoslira&repo=Twitter_clone_MVC&theme=dark"/>
+        </a>
     </p>
 </div>
