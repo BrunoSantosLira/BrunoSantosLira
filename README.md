@@ -40,7 +40,8 @@ Here are some ideas to get you started-->
     <p align="center"> 
     <img align="center" src="https://profile-counter.glitch.me/BrunoSantosLira/count.svg" >
     </p>
-  
-  ![Snake animation](https://github.com/BrunoSantosLira/BrunoSantosLira/blob/output/github-contribution-grid-snake.svg)
-  
+    <p align="center">
+    <h2>Projeto em destaque</h2>
+        <img src=".github/workflows/help_desk.png" />
+    </p>
 </div>
