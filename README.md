@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started-->
 
-- 🌱  Estudando atualmente: JavaScript e PHP
+- 🌱  Estudando atualmente: Angular e Laravel
 - 📫 Contate-me por:<br>
      *brunomasterchif@gmail.com<br>
      *@brunosantoslira25
