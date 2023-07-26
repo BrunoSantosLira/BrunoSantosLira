@@ -53,5 +53,8 @@ Here are some ideas to get you started-->
          <a href="https://github.com/BrunoSantosLira/Twitter_clone_MVC">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunosantoslira&repo=Twitter_clone_MVC&theme=tokyonight"/>
         </a>
+         <a href="https://github.com/BrunoSantosLira/Web_App-Weather">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunosantoslira&repo=Web_App-Weather&theme=tokyonight"/>
+        </a>
     </p>
 </div>
