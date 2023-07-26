@@ -1,4 +1,4 @@
-### Oi Galera, sejam bem vindos ao meu perfil! 👋👋👋
+### echo 'Olá, mundo' ;
 
 <!--
 **BrunoSantosLira/BrunoSantosLira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,7 @@ Here are some ideas to get you started-->
 <br>
 <br>
 <div>
+<h2>Linguagens e tecnologias que utilizo:</h2>
 <img align="center" alt="Rafa-Python" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Rafa-HTML" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
