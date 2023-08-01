@@ -34,9 +34,12 @@ Here are some ideas to get you started-->
 <img align="center"height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />       
 <img align="center"height="60" width="56"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" />
+<img align="center" height="50" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="center" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="center" height="50" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-<img align="center" height="50" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />   
+<img align="center" height="50" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+
+          
 </div>
 
 <hr>
