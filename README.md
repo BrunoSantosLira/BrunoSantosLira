@@ -27,7 +27,7 @@ Here are some ideas to get you started-->
 <img align="center" alt="Rafa-Python" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Rafa-HTML" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />      
 <img align="center" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center"height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
